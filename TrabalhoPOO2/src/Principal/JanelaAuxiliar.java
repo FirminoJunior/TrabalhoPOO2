@@ -216,7 +216,7 @@ public class JanelaAuxiliar extends JFrame implements ActionListener {
                 janCadastro.add(botaoDetalhe);
             
                    JanConfirmacao.dispose();
-                   JOptionPane.showMessageDialog(null, "Dados Cadastrados");
+                   JOptionPane.showMessageDialog(null, "Dados Cadastrados Com sucesso!!!");
         
         } else if (e.getSource() == botaoLogo) {
                 
