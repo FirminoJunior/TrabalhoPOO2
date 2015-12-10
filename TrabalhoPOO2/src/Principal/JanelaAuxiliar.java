@@ -184,8 +184,8 @@ public class JanelaAuxiliar extends JFrame implements ActionListener {
         JLabel  JLexibe = new JLabel("Dados Cadastrados com sucesso!!");
         JLabel  JLdiscSele = new JLabel(disciplinas_s);
 
-        //JLaluno.setBounds(60, 70, 300, 20);
-        //JLsexo.setBounds(60, 100, 300, 20);
+        JLaluno.setBounds(60, 70, 300, 20);
+        JLsexo.setBounds(60, 100, 300, 20);
         JLdisciplina.setBounds(60, 120, 100, 30); //label disciplinas
         JLdiscSele.setBounds(20, 140, 290, 30);//disciplinas selecionadas
         JLexibe.setBounds(150, 20, 300, 30);
