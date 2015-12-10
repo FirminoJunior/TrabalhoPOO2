@@ -154,7 +154,7 @@ public class JanelaAuxiliar extends JFrame implements ActionListener {
         janExibir.setSize(500, 400);
         janExibir.setTitle("Relatorio de Cadastro!");
         janExibir.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
-        janExibir.getContentPane().setBackground(Color.green);
+        janExibir.getContentPane().setBackground(Color.LIGHT_GRAY);
         janExibir.setLocationRelativeTo(null);
 
         String opcao_sexual = null;
