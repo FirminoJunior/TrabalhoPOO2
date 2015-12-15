@@ -1,5 +1,6 @@
 package Principal;
 
+
 import javax.swing.JFrame;
 import java.awt.Canvas;
 import java.awt.Color;
